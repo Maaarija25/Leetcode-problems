@@ -1,5 +1,5 @@
 # Leetcode-problems
-Palindrome number!
+Palindrome number
 
 class Solution {
 public:
